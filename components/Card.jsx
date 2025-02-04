@@ -19,7 +19,7 @@ export const Card = () => {
               </p>
             </div>
             <div className="card-footer text-center">
-              <button class="btn btn-primary" type="button">
+              <button className="btn btn-primary" type="button">
                 Find Out More!
               </button>
             </div>
@@ -40,7 +40,7 @@ export const Card = () => {
               </p>
             </div>
             <div className="card-footer text-center">
-              <button class="btn btn-primary" type="button">
+              <button className="btn btn-primary" type="button">
                 Find Out More!
               </button>
             </div>
@@ -61,7 +61,7 @@ export const Card = () => {
               </p>
             </div>
             <div className="card-footer text-center">
-              <button class="btn btn-primary" type="button">
+              <button className="btn btn-primary" type="button">
                 Find Out More!
               </button>
             </div>
@@ -82,7 +82,7 @@ export const Card = () => {
               </p>
             </div>
             <div className="card-footer text-center">
-              <button class="btn btn-primary" type="button">
+              <button className="btn btn-primary" type="button">
                 Find Out More!
               </button>
             </div>
